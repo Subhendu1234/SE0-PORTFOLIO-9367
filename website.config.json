@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
+    "name": "CraftWords",
+    "tagline": "Creating a ripple of change",
+    "description": "Professional copywriting services that understand the emotion of choosing the right words. We craft messages that engage, inspire, and create lasting impact.",
     "ogImage": "/og-image.png",
     "twitterHandle": "",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
+      "email": "hello@craftwords.com",
+      "company": "CraftWords",
       "address": ""
     },
     "legal": {
@@ -16,6 +16,6 @@
     }
   },
   "theme": {
-    "defaultTheme": "dark"
+    "defaultTheme": "light"
   }
 }
